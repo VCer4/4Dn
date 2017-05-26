@@ -1,3 +1,5 @@
+//To je MIT licenca za uporabo:)
+
 MIT License
 
 Copyright (c) 2017 VCer4
